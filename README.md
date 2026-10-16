@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 StudyMate AI — Assistant Pédagogique Spécialisé en Informatique & IA
 
 > **Université Mundiapolis — 3e année du cycle ingénieur**  
@@ -294,3 +295,7 @@ Pour valider l'ensemble des scénarios prévus au cahier des charges lors de la 
 * **Établissement** : Université Mundiapolis
 * **Module** : Applications avancées en IA (Semestre d'ingénierie)
 * **Encadrement** : Équipe Pédagogique IA & Génie Logiciel
+=======
+# StudyMateIA
+🎓 StudyMate AI is an AI-powered educational chatbot built with Python, FastAPI, React, Groq API, and Prompt Engineering to help students learn computer science and artificial intelligence.
+>>>>>>> d2344053fd2f2a570bca109673c8347742661e6f
